@@ -187,8 +187,3 @@ copy your scheme on proper place
 > Install power toys and configure it  
 test launcher
 test color picker
-
-![Screen Shot](images/scrot1.png)
-
-### Watch it on Youtube 😎  
-[![Web Development in Neovim](http://img.youtube.com/vi/JF9q6_c-_Ww/0.jpg)](http://www.youtube.com/watch?v=JF9q6_c-_Ww)
