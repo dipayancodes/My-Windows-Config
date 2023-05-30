@@ -1,7 +1,4 @@
-# 🔥 Configure Windows for Web Development   
-
-![Steps list]
-
+# 🚀 Configure Windows for Developers
 
 ### Install powershell 7
 [Download from official realease page](https://github.com/PowerShell/PowerShell/releases/download/v7.2.1/PowerShell-7.2.1-win-x64.msi)  
